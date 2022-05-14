@@ -2,12 +2,13 @@
 name = "quran-viewer-bot"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["moh0009 <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 pyTelegramBotAPI = "^4.4.0"
 requests = "^2.27.1"
+certifi = "^2021.10.8"
 
 [tool.poetry.dev-dependencies]
 
